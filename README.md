@@ -6,8 +6,8 @@ Welcome to the **COVID-19 Analysis Dashboard**! This Power BI project provides a
 
 Here are some screenshots of the dashboard:
 
-![Dashboard Screenshot 1](WhatsApp%20Image%202025-03-07%20at%2012.54.37_ba360f7e.jpg)
-![Dashboard Screenshot 2](WhatsApp%20Image%202025-03-07%20at%2012.54.38_feb7565e.jpg)
+![Dashboard Screenshot 1](P1.jpg)
+![Dashboard Screenshot 2](P2.jpg)
 
 ## 🚀 Key Features
 
